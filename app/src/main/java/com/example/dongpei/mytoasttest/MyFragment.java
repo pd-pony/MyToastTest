@@ -15,8 +15,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 /**
- * Demonstration of using ListFragment to show a list of items
- * from a canned array.
+ *本例用来显示Fragment的生命周期
  */
 public class MyFragment extends Activity {
 
